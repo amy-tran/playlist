@@ -10,44 +10,44 @@ In this unit, coders will create a Playlist. The Playlist will display a list of
 
 #### Planning
 
-- [ ] Complete the project planning document.
+- [X] Complete the project planning document.
 
 #### GitHub Set-Up
 
 - [x] Go to the repository
-- [ ] Fork this repository to your github account and import to a new workspace
-- [ ] Submit your website using the link on the Agenda
+- [X] Fork this repository to your github account and import to a new workspace
+- [X] Submit your website using the link on the Agenda
 
 #### Starter Code
 
-- [ ] Read through the HTML starter code to understand the organization and class names given.
-- [ ] Read through the JavaScript starter code to determine where each given function is declared and where each given function is called.
+- [X] Read through the HTML starter code to understand the organization and class names given.
+- [X] Read through the JavaScript starter code to determine where each given function is declared and where each given function is called.
 
 ### Day 1 Goal 2: Write the code to store your song titles in JavaScript
 
-- [ ] Create and populate an array to store your song names
+- [X] Create and populate an array to store your song names
 
 ### Day 1 Goal 3: Write the code to store the rest of your song information in JavaScript
 
-- [ ] Create and populate arrays to store your song artists, images, and links.
+- [X] Create and populate arrays to store your song artists, images, and links.
 
 #### Wrap
 
-- [ ] Push your changes!
+- [X] Push your changes!
 
 ## Day 2
 
 ### Day 2 Goal 1: Write the code to display your song titles on the page
 
-- [ ] Create a loop that loops through your song name array and displays your song names in the correct div
+- [X] Create a loop that loops through your song name array and displays your song names in the correct div
 
 ### Day 2 Goal 2: Write the code to display the rest of your song information
 
-- [ ] Create loops that loop through your song artists, images, and links arrays and display the information in the correct divs.
+- [X] Create loops that loop through your song artists, images, and links arrays and display the information in the correct divs.
 
 #### Wrap
 
-- [ ] Push your changes!
+- [X] Push your changes!
 
 ## Day 3
 
