@@ -1,5 +1,8 @@
 h1 {
   text-align: center;
+  margin-top: 50px;
+/*   background-color: #000000; 
+  color: white; */
 }
 
 .display {
@@ -7,11 +10,14 @@ h1 {
   justify-content: center;
   border-top: 5px solid black;
   border-bottom: 5px solid black;
+  background-color: #c5d8de; 
+/*   color: white; */
 }
 
 .column {
   width: 18%;
   padding: 25px 0px;
+/*   background-color: #000000;  */
 }
 
 .images img {
@@ -53,14 +59,35 @@ h1 {
   width: 75%;
   margin: 0 auto 20px auto;
   font-size: 18px;
+/*   background-color: #b4d2db; */
+/*   background-color: #000000; */
+/*   color: white; */
 }
 
 input {
   padding: 5px 10px;
   font-size: 14px;
+/*   background-color: #000000; 
+  color: white; */
 }
 
 button {
   font-size: 14px;
   padding: 5px 10px;
+  border-radius:5px;
+  padding: 6px 14px;
+  border-radius: 6px;
+  border: none;
+  color: #ffffff;
+  background: linear-gradient(180deg, #4B91F7 0%, #367AF6 100%);
+  background-origin: border-box;
+  box-shadow: 0px 0.5px 1.5px rgba(54, 122, 246, 0.25), inset 0px 0.8px 0px -0.25px rgba(255, 255, 255, 0.2);
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
 }
+
+/* html {
+  background-color: #000000; 
+}
+ */
